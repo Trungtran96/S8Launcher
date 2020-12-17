@@ -1,0 +1,82 @@
+
+<resources>
+    <string name="app_name">S8 Launcher</string>
+
+    <string name="search">Search</string>
+    <string name="search_2">Search on device</string>
+    <string name="cancel">Cancel</string>
+    <string name="size">SIZE</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="page_transition_effect">PAGE TRANSITION EFFECT</string>
+    <string name="rate">RATE</string>
+
+    <string name="default_size">Default</string>
+    <string name="row">Row</string>
+    <string name="column">Column</string>
+
+    <string name="Accordion">Accordion</string>
+    <string name="BackgroundToForeground">Background To Foreground</string>
+    <string name="CubeIn">Cube In</string>
+    <string name="CubeOut">Cube Out</string>
+    <string name="Default">Default</string>
+    <string name="DepthPage">Depth Page</string>
+    <string name="DrawFromBack">Draw From Back</string>
+    <string name="FlipHorizontal">Flip Horizontal</string>
+    <string name="FlipVertical">Flip Vertical</string>
+    <string name="ForegroundToBackground">Foreground To Background</string>
+    <string name="RotateDown">Rotate Down</string>
+    <string name="RotateUp">Rotate Up</string>
+    <string name="Stack">Stack</string>
+    <string name="Tablet">Tablet</string>
+    <string name="ZoomIn">Zoom In</string>
+    <string name="ZoomOutSlide">Zoom Out Slide</string>
+    <string name="ZoomOut">Zoom Out</string>
+
+    <string name="setting">SETTING</string>
+    <string name="wall">WALLPAPER</string>
+
+    <string name="rate_2">Do you feel useful application? Let take 5 stars rating for the developer!</string>
+    <string name="not_now">Not now</string>
+    <string name="rate_app">Rate App</string>
+
+    <string name="alarm">Alarm</string>
+    <string name="calculator">Calculator</string>
+    <string name="calendar">Calendar</string>
+    <string name="camera">Camera</string>
+    <string name="clock">Clock</string>
+    <string name="contact">Contacts</string>
+    <string name="email">Email</string>
+    <string name="photos">Photos</string>
+    <string name="internet">Internet</string>
+    <string name="mess">Messages</string>
+    <string name="music">Music</string>
+    <string name="file">File Command</string>
+    <string name="note">Notes</string>
+    <string name="phone">Phone</string>
+    <string name="record">Record</string>
+    <string name="video">Video</string>
+    <string name="setting_2">Settings</string>
+    <string name="weather">Weather</string>
+
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="sun">SUN</string>
+
+    <string name="jan">JANUARY</string>
+    <string name="feb">FEBRUARY</string>
+    <string name="mar">MARCH</string>
+    <string name="apr">APRIL</string>
+    <string name="may">MAY</string>
+    <string name="jun">JUNE</string>
+    <string name="jul">JULY</string>
+    <string name="aug">AUGUST</string>
+    <string name="sep">SEPTEMBER</string>
+    <string name="oct">OCTOBER</string>
+    <string name="nov">NOVEMBER</string>
+    <string name="dec">DECEMBER</string>
+
+</resources>

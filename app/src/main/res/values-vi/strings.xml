@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">S8 Launcher</string>
+
+    <string name="search">Tìm kiếm</string>
+    <string name="search_2">Tìm trên điện thoại</string>
+    <string name="cancel">Hủy</string>
+    <string name="size">KÍCH THƯỚC</string>
+    <string name="wallpaper">Hình nền</string>
+    <string name="page_transition_effect">HIỆU ỨNG</string>
+    <string name="rate">ĐÁNH GIÁ ỨNG DỤNG</string>
+
+    <string name="default_size">Mặc định</string>
+    <string name="row">Hàng</string>
+    <string name="column">Cột</string>
+
+    <string name="Accordion">Dương Cầm</string>
+    <string name="BackgroundToForeground">Bối Cảnh Trước</string>
+    <string name="CubeIn">Khối Lập Phương 1</string>
+    <string name="CubeOut">Khối Lập Phương 2</string>
+    <string name="Default">Mặc Định</string>
+    <string name="DepthPage">Độ Sâu</string>
+    <string name="DrawFromBack">Vẽ Từ Phía Sau</string>
+    <string name="FlipHorizontal">Xoay Ngang</string>
+    <string name="FlipVertical">Xoay Dọc</string>
+    <string name="ForegroundToBackground">Bối Cảnh Sau</string>
+    <string name="RotateDown">Xoay Dưới</string>
+    <string name="RotateUp">Xoay Trên</string>
+    <string name="Stack">Nạp Chồng</string>
+    <string name="Tablet">Điện Tử</string>
+    <string name="ZoomIn">Phóng To</string>
+    <string name="ZoomOutSlide">Thu Nhỏ Trang</string>
+    <string name="ZoomOut">Thu Nhỏ</string>
+
+    <string name="setting">CÀI ĐẶT</string>
+    <string name="wall">HÌNH NỀN</string>
+
+    <string name="rate_2">Đánh giá 5 sao để ủng hộ nhà phát triển</string>
+    <string name="not_now">Lúc khác</string>
+    <string name="rate_app">Đánh giá ứng dụng</string>
+
+    <string name="alarm">Báo thức</string>
+    <string name="calculator">Máy tính</string>
+    <string name="calendar">Lịch</string>
+    <string name="camera">Máy ảnh</string>
+    <string name="clock">Đồng hồ</string>
+    <string name="contact">Danh bạ</string>
+    <string name="email">Email</string>
+    <string name="photos">Ảnh</string>
+    <string name="internet">Trình duyệt</string>
+    <string name="mess">Tin nhắn</string>
+    <string name="music">Nhạc</string>
+    <string name="file">Quản lý file</string>
+    <string name="note">Ghi chú</string>
+    <string name="phone">Điện thoại</string>
+    <string name="record">Ghi âm</string>
+    <string name="video">Video</string>
+    <string name="setting_2">Cài đặt</string>
+    <string name="weather">Thời tiết</string>
+
+    <string name="mon">TH 2</string>
+    <string name="tue">TH 3</string>
+    <string name="wed">TH 4</string>
+    <string name="thu">TH 5</string>
+    <string name="fri">TH 6</string>
+    <string name="sat">TH 7</string>
+    <string name="sun">CN</string>
+    <string name="jan">THÁNG 1</string>
+    <string name="feb">THÁNG 2</string>
+    <string name="mar">THÁNG 3</string>
+    <string name="apr">THÁNG 4</string>
+    <string name="may">THÁNG 5</string>
+    <string name="jun">THÁNG 6</string>
+    <string name="jul">THÁNG 7</string>
+    <string name="aug">THÁNG 8</string>
+    <string name="sep">THÁNG 9</string>
+    <string name="oct">THÁNG 10</string>
+    <string name="nov">THÁNG 11</string>
+    <string name="dec">THÁNG 12</string>
+
+</resources>
